@@ -128,6 +128,7 @@
     "vitest": "^2.1.7",
     "wrangler": "^3.91.0",
     "zod": "^3.23.8"
+    
   },
   "resolutions": {
     "@typescript-eslint/utils": "^8.0.0-alpha.30"
